@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/blueglassS"
+	"$color2" "{180 180 180}"
+	"$envmap" "models/doctorwho1200/hartnell/vtf/environment"
+	"$envmaptint" "[ 0.2 0.2 0.2 ]"
+	"$nodecal" "1"
+	"$translucent" "1"
+}

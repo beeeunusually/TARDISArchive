@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/fmlights"
+	"$bumpmap" "models/doctorwho1200/hartnell/vtf/fmlightsn"
+	"$nodecal" "1"
+	"$normalmap" "models/doctorwho1200/hartnell/vtf/fmlightsn"
+	"$surfaceprop" "Plastic"
+	Proxies
+	{
+		"AnimatedTexture"
+			{
+				"animatedTextureVar" "$basetexture"
+				"animatedTextureFrameNumVar" "$frame"
+				"animatedTextureFrameRate" "2.2"
+			}
+	}
+}

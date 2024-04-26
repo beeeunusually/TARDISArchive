@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/roundel"
+	"$nocull" "1"
+	"$nodecal" "1"
+	"$surfaceprop" "Plastic"
+	"$selfillum" "1"
+	"$selfillummask" "models/doctorwho1200/hartnell/vtf/desaturated/white"
+	"$selfillumtint" "[1 0.33 0.35]"
+
+	$sine                       0
+	Proxies
+	{
+
+		Sine
+		{
+			sineperiod          4
+			sinemin            0.4
+			sinemax             0.8
+			resultVar           $sine
+		}
+
+		Equals
+		{
+			srcVar1             $sine
+			resultVar           "$selfillumtint[0]"
+		}
+
+	}
+}

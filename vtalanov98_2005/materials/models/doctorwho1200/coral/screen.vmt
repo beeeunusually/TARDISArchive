@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/screen"
+	"$surfaceprop" "Glass"
+	"$selfillum" 1
+	"$selfillummask" "models/doctorwho1200/coral/white"
+	"$nodecal" "1"
+		"Proxies"
+		{
+			"AnimatedTexture"
+				{
+					"animatedTextureVar" "$basetexture"
+					"animatedTextureFrameNumVar" "$frame"
+					"animatedTextureFrameRate" "8"
+				}
+		}
+}

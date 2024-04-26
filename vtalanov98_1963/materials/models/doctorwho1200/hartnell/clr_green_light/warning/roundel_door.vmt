@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/roundel"
+	"$nocull" "1"
+	"$nodecal" "1"
+	"$surfaceprop" "Plastic"
+	"$color2" "[1.5 0.75 0.75]"
+}

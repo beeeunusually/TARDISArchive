@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/desaturated/canopy"
+	"$nodecal" "1"
+	"$surfaceprop" "Wood_Solid"
+	"$color2" "[5.2 5.2 5.7]"
+}

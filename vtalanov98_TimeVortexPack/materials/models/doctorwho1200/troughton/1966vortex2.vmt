@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/doctorwho1200/troughton/1966vortex2"
+	"$surfaceprop" "water"
+	"$selfillum" 1
+        "$selfillummask" "models/doctorwho1200/troughton/whitevortex"
+	"$nodecal" "1"
+		"Proxies"
+		{
+			"AnimatedTexture"
+				{
+					"animatedTextureVar" "$basetexture"
+					"animatedTextureFrameNumVar" "$frame"
+					"animatedTextureFrameRate" "25"
+				}
+		}
+}

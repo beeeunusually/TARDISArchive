@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/sonics/4thdoctor/sonic"
+	"$envmap" "models/doctorwho1200/sonics/4thdoctor/environment"
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$nodecal" "1"
+	"$surfaceprop" "Metal"
+}

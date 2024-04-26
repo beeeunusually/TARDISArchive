@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/walls"
+	"$surfaceprop" "Glass"
+	"$nodecal" "1"
+	"$selfillum" 1
+	"$selfillummask" "models/doctorwho1200/coral/white"
+	"$selfillumtint" "[ 2 0 0 ]"
+}

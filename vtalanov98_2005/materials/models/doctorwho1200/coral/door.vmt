@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/coral/door"
+	"$bumpmap"				"models/doctorwho1200/coral/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$phong"				"1"
+
+	"$surfaceprop"			"Wood_Furniture"
+}

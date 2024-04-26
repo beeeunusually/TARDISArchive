@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/desaturated/dividingscreens"
+	"$nodecal" "1"
+	"$surfaceprop" "Metal"
+	"$color2" "[3.5 1.8 1.8]"
+}

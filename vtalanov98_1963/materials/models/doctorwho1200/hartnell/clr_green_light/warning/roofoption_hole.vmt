@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/lqscreens"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$surfaceprop" "Plastic"
+	"$color2" "[1 0.8 0.8]"
+}

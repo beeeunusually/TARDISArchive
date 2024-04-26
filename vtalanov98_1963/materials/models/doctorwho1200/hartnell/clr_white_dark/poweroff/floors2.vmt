@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basealphaenvmapmask" "1"
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/floorS2"
+	"$nodecal" "1"
+	"$surfaceprop" "Concrete"
+}

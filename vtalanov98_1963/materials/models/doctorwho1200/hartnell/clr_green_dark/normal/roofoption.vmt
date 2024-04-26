@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/roofoption"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$surfaceprop" "Plastic"
+	"$color2" "[1.1 1.05 1.1]"
+	"$envmap" "models/doctorwho1200/hartnell/vtf/environment"
+	"$envmaptint" "[0.3 0.4 0.3]"
+}

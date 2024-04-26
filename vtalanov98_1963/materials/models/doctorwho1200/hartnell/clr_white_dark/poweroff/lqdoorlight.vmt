@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/lqdoorlight"
+	"$nodecal" "1"
+	"$color2" "[0.8 0.8 0.8]"
+	"$surfaceprop" "Plastic"
+}

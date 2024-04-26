@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/lqscreens"
+	"$envmap" "models/doctorwho1200/hartnell/vtf/environment"
+	"$envmaptint" "[0.18 0.18 0.18]"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$surfaceprop" "Plastic"
+	"$color2" "[2.45 2.45 2.55]"
+}

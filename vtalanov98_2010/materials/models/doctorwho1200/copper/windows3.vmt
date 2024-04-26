@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/windows3"
+	"$bumpmap"				"models/doctorwho1200/copper/windows_n"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$selfillum"			"1"
+	"$selfillummask"		"models/doctorwho1200/copper/white"
+
+	"$envmap"				"env_cubemap"
+	"$envmaptint"			"[0.1 0.1 0.1]"
+
+	"$phong"				"1"
+	"$phongexponent"		"100"
+	"$phongboost"			"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"0.2"
+
+	"$surfaceprop"			"glass"
+}

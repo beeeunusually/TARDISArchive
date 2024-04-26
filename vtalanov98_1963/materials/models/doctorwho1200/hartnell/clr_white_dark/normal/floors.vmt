@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/floorS"
+	"$nodecal" "1"
+	"$surfaceprop" "Concrete"
+	"$color2" "[1.6 1.6 1.7]"
+}

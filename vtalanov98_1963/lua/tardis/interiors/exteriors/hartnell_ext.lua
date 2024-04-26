@@ -1,0 +1,1 @@
+TARDIS:ImportExterior("hartnell", { category = "Exteriors.Categories.PoliceBoxes", })

@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/coral/door"
+	"$bumpmap"				"models/doctorwho1200/coral/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$selfillum"			"1"
+	"$selfillummask"		"models/doctorwho1200/coral/white"
+	"$selfillumtint" "[ 2 2 2 ]"
+
+	"$phong"				"1"
+
+	"$surfaceprop"			"plastic"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/clockdial"
+	"$nodecal" "1"
+	"$surfaceprop" "Plastic"
+}

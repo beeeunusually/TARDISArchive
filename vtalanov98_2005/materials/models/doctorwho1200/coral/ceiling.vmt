@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/ceiling"
+	"$surfaceprop" "carpet"
+	"$nodecal" "1"
+
+	"$color2"	"{255 228 200}"
+}

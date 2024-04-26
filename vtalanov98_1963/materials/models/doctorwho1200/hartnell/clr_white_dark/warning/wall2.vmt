@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/desaturated/wall2"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$surfaceprop" "Wood_Solid"
+	"$color2" "[3.5 1.8 1.8]"
+}

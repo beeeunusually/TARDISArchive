@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/exterior"
+	"$envmap" "models/doctorwho1200/hartnell/vtf/environment"
+	"$envmaptint" "[0.3 0.3 0.3]"
+	"$nodecal" "1"
+	"$selfillum" "1"
+	"$selfillummask" "models/doctorwho1200/hartnell/vtf/white"
+	"$surfaceprop" "Glass"
+}

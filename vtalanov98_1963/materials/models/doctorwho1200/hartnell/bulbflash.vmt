@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/bulbflash"
+	"$bumpmap" "models/doctorwho1200/hartnell/vtf/bulbn"
+	"$nodecal" "1"
+	"$normalmap" "models/doctorwho1200/hartnell/vtf/bulbn"
+	"$surfaceprop" "Metal"
+	Proxies
+	{
+		"AnimatedTexture"
+			{
+				"animatedTextureVar" "$basetexture"
+				"animatedTextureFrameNumVar" "$frame"
+				"animatedTextureFrameRate" "5"
+			}
+	}
+}

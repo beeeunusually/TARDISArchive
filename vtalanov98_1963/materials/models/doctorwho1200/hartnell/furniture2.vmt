@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/furniture2"
+	"$bumpmap" "models/doctorwho1200/hartnell/vtf/furniture2n"
+	"$nodecal" "1"
+	"$normalmap" "models/doctorwho1200/hartnell/vtf/furniture2n"
+	"$surfaceprop" "Wood_Solid"
+	"$color2" "[2.5 2.5 2.5]"
+}

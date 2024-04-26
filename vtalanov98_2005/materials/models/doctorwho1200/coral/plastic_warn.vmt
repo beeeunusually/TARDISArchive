@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/plastic"
+	"$surfaceprop" "Flesh"
+	"$nodecal" "1"
+	"$color2" "[ 1 0.0 0.0 ]"
+}

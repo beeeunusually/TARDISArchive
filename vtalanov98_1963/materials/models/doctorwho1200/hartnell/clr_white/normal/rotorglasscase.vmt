@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/glass_light"
+	"$nodecal" "1"
+	"$translucent" "1"
+	"$color2" "[2 2 2]"
+}

@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/weapons/sonic/5thdoctorsonic"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$nolod" "1"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "20"
+		 } 
+	} 
+}

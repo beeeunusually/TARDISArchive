@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basealphaenvmapmask" "1"
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/desaturated/lock"
+	"$envmap" "models/doctorwho1200/hartnell/vtf/desaturated/environment"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$nodecal" "1"
+	"$surfaceprop" "Metal"
+	"$color2" "[5.2 5.2 5.7]"
+}

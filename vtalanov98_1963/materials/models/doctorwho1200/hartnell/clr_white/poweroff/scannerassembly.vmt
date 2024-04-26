@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/desaturated/scannerassembly"
+	"$nodecal" "1"
+	"$surfaceprop" "Plastic"
+	"$color2" "[5 5 5]"
+}

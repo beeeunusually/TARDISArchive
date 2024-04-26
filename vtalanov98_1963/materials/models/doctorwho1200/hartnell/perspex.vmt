@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/perspex"
+	"$bumpmap" "models/doctorwho1200/hartnell/vtf/perspexn"
+	"$nodecal" "1"
+	"$normalmap" "models/doctorwho1200/hartnell/vtf/perspexn"
+	"$nodecal" "1"
+}

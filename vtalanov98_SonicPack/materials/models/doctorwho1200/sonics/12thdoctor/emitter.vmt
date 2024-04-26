@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/sonics/12thdoctor/emitterflash"
+	"$nodecal" "1"
+	"$selfillum" "1"
+	"$selfillummask" "models/doctorwho1200/sonics/12thdoctor/white"
+	"$surfaceprop" "Plastic"
+	Proxies
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "8"
+		}
+		SonicSDColor
+		{
+			resultVar	$selfillumtint
+		}
+	}
+}

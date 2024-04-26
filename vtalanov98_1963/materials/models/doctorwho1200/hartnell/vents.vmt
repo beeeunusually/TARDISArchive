@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/vents"
+	"$bumpmap" "models/doctorwho1200/hartnell/vtf/ventsn"
+	"$nodecal" "1"
+	"$normalmap" "models/doctorwho1200/hartnell/vtf/ventsn"
+	"$surfaceprop" "Plastic"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/wall3"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$surfaceprop" "Wood_Solid"
+}

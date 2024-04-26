@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/photowalls_grey_clean_dark"
+	"$nodecal" "1"
+	"$surfaceprop" "Plastic"
+	"$selfillum" "1"
+	"$selfillummask" "models/doctorwho1200/hartnell/vtf/white"
+	"$selfillumtint" "[2.5 2.5 2.3]"
+}

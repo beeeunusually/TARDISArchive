@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/roundel"
+	"$nocull" "1"
+	"$nodecal" "1"
+	"$surfaceprop" "Plastic"
+	"$selfillum" "1"
+	"$selfillummask" "models/doctorwho1200/hartnell/vtf/white"
+	"$selfillumtint" "[0.8 0.13 0.15]"
+}

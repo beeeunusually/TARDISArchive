@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"models/doctorwho1200/coral/doorsign"
+	"$bumpmap"					"models/doctorwho1200/coral/normal"
+	"$nodecal"					"1"
+	"$model"					"1"
+
+	"$detail"					"detail/metal_detail_01"
+	"$detailscale"				"4.283"
+	"$detailblendfactor"		"0.65"
+	"$detailblendmode"			"0"
+
+	"$phong"					"1"
+	"$phongexponent"			"30"
+	"$phongboost"				"1"
+	"$phongfresnelranges"		"[0.05 0.5 1]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"2"
+	"$rimlightboost"			"0.2"
+
+	"$surfaceprop"				"Wood_Furniture"
+}

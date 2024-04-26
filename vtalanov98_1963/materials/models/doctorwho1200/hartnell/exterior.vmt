@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/exterior"
+	"$bumpmap" "models/doctorwho1200/hartnell/vtf/exteriorn"
+	"$nodecal" "1"
+	"$normalmap" "models/doctorwho1200/hartnell/vtf/exteriorn"
+	"$surfaceprop" "Wood_Solid"
+}

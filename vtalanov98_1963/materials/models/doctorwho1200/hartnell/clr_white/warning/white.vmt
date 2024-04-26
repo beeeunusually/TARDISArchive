@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/hartnell/vtf/desaturated/white"
+	"$nodecal" "1"
+	"$color2" "[3.5 1.8 1.8]"
+}

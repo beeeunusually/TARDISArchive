@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/sonics/11thdoctor/sonicbottom_grey"
+	"$nodecal" "1"
+	"$selfillum" "1"
+	"$selfillummask" "models/doctorwho1200/sonics/11thdoctor/white"
+	"$surfaceprop" "Metal"
+
+	Proxies
+	{
+		SonicSDColor
+		{
+			resultVar	$selfillumtint
+		}
+	}
+}
